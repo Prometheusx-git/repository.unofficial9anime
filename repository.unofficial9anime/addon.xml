@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.unofficial9anime" name="UP9anime Repository" version="1.0" provider-name="PrometheusX">
+	<extension point="xbmc.addon.repository" name="UP9anime Repository">
+		<info compressed="false">https://github.com/Prometheusx-git/repository.unofficial9anime/master/addons.xml</info>
+		<checksum>https://github.com/Prometheusx-git/repository.unofficial9anime/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Prometheusx-git/repository.unofficial9anime/master/</datadir>
+	</extension>
+	  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Repository for UP9Anime video plugin</summary>
+		<description lang="en">UP9anime, aka The Unofficial Plugin for 9anime, is a 9anime client for Kodi.</description>
+		<source>https://github.com/Prometheusx-git/plugin.video.unofficial9anime</source>
+		<platform>all</platform>
+		<website>https://9anime.is</website>
+	  <assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+		<screenshot>resources/screenshots/screenshot1.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot2.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot3.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot4.jpg</screenshot>
+		<screenshot>resources/screenshots/screenshot5.jpg</screenshot>
+	  </assets>
+	  </extension>
+</addon>
