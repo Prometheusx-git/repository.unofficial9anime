@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.unofficial9anime" name="UP9anime Repository" version="1.0" provider-name="PrometheusX">
+<addon id="repository.unofficial9anime" name="UP9anime Repository" version="1.0.1" provider-name="PrometheusX">
 	<extension point="xbmc.addon.repository" name="UP9anime Repository">
-		<info compressed="false">https://github.com/Prometheusx-git/repository.unofficial9anime/master/addons.xml</info>
-		<checksum>https://github.com/Prometheusx-git/repository.unofficial9anime/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/Prometheusx-git/repository.unofficial9anime/master/</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/Prometheusx-git/repository.unofficial9anime/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Prometheusx-git/repository.unofficial9anime/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Prometheusx-git/repository.unofficial9anime/master/</datadir>
 	</extension>
 	  <extension point="xbmc.addon.metadata">
 		<summary lang="en">Repository for UP9Anime video plugin</summary>
