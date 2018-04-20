@@ -25,8 +25,8 @@ Known issues:
     <website>https://9anime.is</website>
     <source>https://github.com/Prometheusx-git/plugin.video.unofficial9anime</source>
     <assets>
-      <icon>resources/icon.png</icon>
-      <fanart>resources/fanart.jpg</fanart>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
       <screenshot>resources/media/ScreenshotMostWatched.png</screenshot>
       <screenshot>resources/media/ScreenshotSearch.png</screenshot>
       <screenshot>resources/media/ScreenshotWidgetBookmarks.png</screenshot>
